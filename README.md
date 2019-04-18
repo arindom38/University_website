@@ -1,6 +1,6 @@
 # University_website
 
-========================================Read me===========================================
+
 1. Install the XAMPP
 2.Copy the university_website folder in the C:\\xampp/htdocs
 
